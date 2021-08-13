@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "core": {
+      "commandName": "Project",
+      "commandLineArgs": "\"c:\\\\projects\\\\minicatchpoint\\\\core\\\\config.txt\""
+    }
+  }
+}

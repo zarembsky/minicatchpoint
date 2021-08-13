@@ -1,0 +1,4 @@
+1 www.google.com 5
+2 www.cnn.com 10
+3 www.catchpoint.com 5
+1 www.microsoft.com 5
